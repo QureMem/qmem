@@ -1,0 +1,621 @@
+[
+  {
+    "nameEn": "The Opening",
+    "nameTr": "al-Fatihah",
+    "nameAr": "الفاتحة",
+    "noVerses": 7
+  },
+  {
+    "nameEn": "The Heifer",
+    "nameTr": "al-Baqarah",
+    "nameAr": "البقرة",
+    "noVerses": 286
+  },
+  {
+    "nameEn": "Family of Imran",
+    "nameTr": "Aali 'Imran",
+    "nameAr": "آل عمران",
+    "noVerses": 200
+  },
+  {
+    "nameEn": "Women",
+    "nameTr": "an-Nisa'",
+    "nameAr": "النساء",
+    "noVerses": 176
+  },
+  {
+    "nameEn": "The Table",
+    "nameTr": "al-Ma'idah",
+    "nameAr": "المائدة",
+    "noVerses": 120
+  },
+  {
+    "nameEn": "Livestock",
+    "nameTr": "al-An'am",
+    "nameAr": "الأنعام",
+    "noVerses": 165
+  },
+  {
+    "nameEn": "The Elevations",
+    "nameTr": "al-A'raf",
+    "nameAr": "الأعراف",
+    "noVerses": 206
+  },
+  {
+    "nameEn": "The Spoils",
+    "nameTr": "al-Anfal",
+    "nameAr": "الأنفال",
+    "noVerses": 75
+  },
+  {
+    "nameEn": "Repentance",
+    "nameTr": "at-Tawbah",
+    "nameAr": "التوبة",
+    "noVerses": 129
+  },
+  { "nameEn": "Jonah", "nameTr": "Yunus", "nameAr": "يونس", "noVerses": 109 },
+  { "nameEn": "Hud", "nameTr": "Hud", "nameAr": "هود", "noVerses": 123 },
+  { "nameEn": "Joseph", "nameTr": "Yusuf", "nameAr": "يوسف", "noVerses": 111 },
+  {
+    "nameEn": "Thunder",
+    "nameTr": "ar-Ra'd",
+    "nameAr": "الرعد",
+    "noVerses": 43
+  },
+  {
+    "nameEn": "Abraham",
+    "nameTr": "Ibrahim",
+    "nameAr": "إبراهيم",
+    "noVerses": 52
+  },
+  {
+    "nameEn": "The Rock",
+    "nameTr": "al-Hijr",
+    "nameAr": "الحجر",
+    "noVerses": 99
+  },
+  {
+    "nameEn": "The Bee",
+    "nameTr": "an-Nahl",
+    "nameAr": "النحل",
+    "noVerses": 128
+  },
+  {
+    "nameEn": "Night Journey",
+    "nameTr": "al-Isra'",
+    "nameAr": "الإسراء",
+    "noVerses": 111
+  },
+  {
+    "nameEn": "The Cave",
+    "nameTr": "al-Kahf",
+    "nameAr": "الكهف",
+    "noVerses": 110
+  },
+  { "nameEn": "Mary", "nameTr": "Maryam", "nameAr": "مريم", "noVerses": 98 },
+  { "nameEn": "Ta-Ha", "nameTr": "Ta-Ha", "nameAr": "طه", "noVerses": 135 },
+  {
+    "nameEn": "The Prophets",
+    "nameTr": "al-Anbiya",
+    "nameAr": "الأنبياء",
+    "noVerses": 112
+  },
+  {
+    "nameEn": "The Pilgrimage",
+    "nameTr": "al-Hajj",
+    "nameAr": "الحج",
+    "noVerses": 78
+  },
+  {
+    "nameEn": "The Believers",
+    "nameTr": "al-Mu'minun",
+    "nameAr": "المؤمنون",
+    "noVerses": 118
+  },
+  {
+    "nameEn": "The Light",
+    "nameTr": "an-Nur",
+    "nameAr": "النور",
+    "noVerses": 64
+  },
+  {
+    "nameEn": "The Criterion",
+    "nameTr": "al-Furqan",
+    "nameAr": "الفرقان",
+    "noVerses": 77
+  },
+  {
+    "nameEn": "The Poets",
+    "nameTr": "ash-Shu'ara'",
+    "nameAr": "الشعراء",
+    "noVerses": 227
+  },
+  {
+    "nameEn": "The Ant",
+    "nameTr": "an-Naml",
+    "nameAr": "النمل",
+    "noVerses": 93
+  },
+  {
+    "nameEn": "History",
+    "nameTr": "al-Qasas",
+    "nameAr": "القصص",
+    "noVerses": 88
+  },
+  {
+    "nameEn": "The Spider",
+    "nameTr": "al-'Ankabut",
+    "nameAr": "العنكبوت",
+    "noVerses": 69
+  },
+  {
+    "nameEn": "The Romans",
+    "nameTr": "ar-Rum",
+    "nameAr": "الروم",
+    "noVerses": 60
+  },
+  { "nameEn": "Luqman", "nameTr": "Luqman", "nameAr": "لقمان", "noVerses": 34 },
+  {
+    "nameEn": "Prostration",
+    "nameTr": "as-Sajdah",
+    "nameAr": "السجدة",
+    "noVerses": 30
+  },
+  {
+    "nameEn": "The Confederates",
+    "nameTr": "al-Ahzab",
+    "nameAr": "الأحزاب",
+    "noVerses": 73
+  },
+  { "nameEn": "Sheba", "nameTr": "Saba'", "nameAr": "سبإ", "noVerses": 54 },
+  {
+    "nameEn": "Originator",
+    "nameTr": "Fatir",
+    "nameAr": "فاطر",
+    "noVerses": 45
+  },
+  { "nameEn": "Ya-Seen", "nameTr": "Ya-Seen", "nameAr": "يس", "noVerses": 83 },
+  {
+    "nameEn": "The Aligners",
+    "nameTr": "as-Saffat",
+    "nameAr": "الصافات",
+    "noVerses": 182
+  },
+  { "nameEn": "Saad", "nameTr": "Saad", "nameAr": "ص", "noVerses": 88 },
+  {
+    "nameEn": "The Crowds",
+    "nameTr": "az-Zumar",
+    "nameAr": "الزمر",
+    "noVerses": 75
+  },
+  {
+    "nameEn": "Forgiver",
+    "nameTr": "Ghafir",
+    "nameAr": "غافر",
+    "noVerses": 85
+  },
+  {
+    "nameEn": "Detailed",
+    "nameTr": "Fussilat",
+    "nameAr": "فصلت",
+    "noVerses": 54
+  },
+  {
+    "nameEn": "Consultation",
+    "nameTr": "ash-Shura",
+    "nameAr": "الشورى",
+    "noVerses": 53
+  },
+  {
+    "nameEn": "Decorations",
+    "nameTr": "az-Zukhruf",
+    "nameAr": "الزخرف",
+    "noVerses": 89
+  },
+  {
+    "nameEn": "Smoke",
+    "nameTr": "ad-Dukhan",
+    "nameAr": "الدخان",
+    "noVerses": 59
+  },
+  {
+    "nameEn": "Kneeling",
+    "nameTr": "al-Jathiyah",
+    "nameAr": "الجاثية",
+    "noVerses": 37
+  },
+  {
+    "nameEn": "The Dunes",
+    "nameTr": "al-Ahqaf",
+    "nameAr": "الأحقاف",
+    "noVerses": 35
+  },
+  {
+    "nameEn": "Muhammad",
+    "nameTr": "Muhammad",
+    "nameAr": "محمـد",
+    "noVerses": 38
+  },
+  {
+    "nameEn": "Victory",
+    "nameTr": "al-Fath",
+    "nameAr": "الفتح",
+    "noVerses": 29
+  },
+  {
+    "nameEn": "The Chambers",
+    "nameTr": "al-Hujurat",
+    "nameAr": "الحـجـرات",
+    "noVerses": 18
+  },
+  { "nameEn": "Qaf", "nameTr": "Qaf", "nameAr": "ق", "noVerses": 45 },
+  {
+    "nameEn": "The Spreaders",
+    "nameTr": "adh-Dhariyat",
+    "nameAr": "الذاريات",
+    "noVerses": 60
+  },
+  {
+    "nameEn": "The Mount",
+    "nameTr": "at-Tur",
+    "nameAr": "الـطور",
+    "noVerses": 49
+  },
+  {
+    "nameEn": "The Star",
+    "nameTr": "an-Najm",
+    "nameAr": "الـنجـم",
+    "noVerses": 62
+  },
+  {
+    "nameEn": "The Moon",
+    "nameTr": "al-Qamar",
+    "nameAr": "الـقمـر",
+    "noVerses": 55
+  },
+  {
+    "nameEn": "The Compassionate",
+    "nameTr": "ar-Rahman",
+    "nameAr": "الـرحـمـن",
+    "noVerses": 78
+  },
+  {
+    "nameEn": "The Inevitable",
+    "nameTr": "al-Waqi'ah",
+    "nameAr": "الواقعـة",
+    "noVerses": 96
+  },
+  {
+    "nameEn": "Iron",
+    "nameTr": "al-Hadid`",
+    "nameAr": "الحـديد",
+    "noVerses": 29
+  },
+  {
+    "nameEn": "The Argument",
+    "nameTr": "al-Mujadilah",
+    "nameAr": "الـمجادلـة",
+    "noVerses": 22
+  },
+  {
+    "nameEn": "The Mobilization",
+    "nameTr": "al-Hashr",
+    "nameAr": "الـحـشـر",
+    "noVerses": 24
+  },
+  {
+    "nameEn": "She who is Tested",
+    "nameTr": "al-Mumtahina",
+    "nameAr": "الـمـمـتـحنة",
+    "noVerses": 13
+  },
+  {
+    "nameEn": "Column",
+    "nameTr": "as-Saff",
+    "nameAr": "الـصـف",
+    "noVerses": 14
+  },
+  {
+    "nameEn": "Friday",
+    "nameTr": "al-Jumu'ah",
+    "nameAr": "الـجـمـعـة",
+    "noVerses": 11
+  },
+  {
+    "nameEn": "The Hypocrites",
+    "nameTr": "al-Munafiqun",
+    "nameAr": "الـمنافقون",
+    "noVerses": 11
+  },
+  {
+    "nameEn": "Gathering",
+    "nameTr": "at-Taghabun",
+    "nameAr": "الـتغابن",
+    "noVerses": 18
+  },
+  {
+    "nameEn": "Divorce",
+    "nameTr": "at-Talaq",
+    "nameAr": "الـطلاق",
+    "noVerses": 12
+  },
+  {
+    "nameEn": "Prohibition",
+    "nameTr": "at-Tahrim",
+    "nameAr": "الـتحريم",
+    "noVerses": 12
+  },
+  {
+    "nameEn": "Sovereignty",
+    "nameTr": "al-Mulk",
+    "nameAr": "الـملك",
+    "noVerses": 30
+  },
+  {
+    "nameEn": "The Pen",
+    "nameTr": "al-Qalam",
+    "nameAr": "الـقـلـم",
+    "noVerses": 52
+  },
+  {
+    "nameEn": "The Reality",
+    "nameTr": "al-Haqqah",
+    "nameAr": "الـحاقـة",
+    "noVerses": 52
+  },
+  {
+    "nameEn": "Ways of Ascent",
+    "nameTr": "al-Ma'arij",
+    "nameAr": "الـمعارج",
+    "noVerses": 44
+  },
+  { "nameEn": "Noah", "nameTr": "Nuh", "nameAr": "نوح", "noVerses": 28 },
+  {
+    "nameEn": "The Jinn",
+    "nameTr": "al-Jinn",
+    "nameAr": "الجن",
+    "noVerses": 28
+  },
+  {
+    "nameEn": "The Enwrapped",
+    "nameTr": "al-Muzzammil",
+    "nameAr": "الـمـزمـل",
+    "noVerses": 20
+  },
+  {
+    "nameEn": "The Enrobed",
+    "nameTr": "al-Muddathir",
+    "nameAr": "الـمـدثـر",
+    "noVerses": 56
+  },
+  {
+    "nameEn": "Resurrection",
+    "nameTr": "al-Qiyamah",
+    "nameAr": "الـقـيامـة",
+    "noVerses": 40
+  },
+  {
+    "nameEn": "Man",
+    "nameTr": "al-Insan",
+    "nameAr": "الإنسان",
+    "noVerses": 31
+  },
+  {
+    "nameEn": "The Unleashed",
+    "nameTr": "al-Mursalat",
+    "nameAr": "الـمرسلات",
+    "noVerses": 50
+  },
+  {
+    "nameEn": "The Event",
+    "nameTr": "an-Naba'",
+    "nameAr": "الـنبإ",
+    "noVerses": 40
+  },
+  {
+    "nameEn": "The Snatchers",
+    "nameTr": "an-Nazi'at",
+    "nameAr": "الـنازعات",
+    "noVerses": 46
+  },
+  {
+    "nameEn": "He Frowned",
+    "nameTr": "'Abasa",
+    "nameAr": "عبس",
+    "noVerses": 42
+  },
+  {
+    "nameEn": "The Rolling",
+    "nameTr": "at-Takwir",
+    "nameAr": "التكوير",
+    "noVerses": 29
+  },
+  {
+    "nameEn": "The Shattering",
+    "nameTr": "al-Infitar",
+    "nameAr": "الانفطار",
+    "noVerses": 19
+  },
+  {
+    "nameEn": "The Defrauders",
+    "nameTr": "al-Mutaffifin",
+    "nameAr": "المطـفـفين",
+    "noVerses": 36
+  },
+  {
+    "nameEn": "The Rupture",
+    "nameTr": "al-Inshiqaq",
+    "nameAr": "الانشقاق",
+    "noVerses": 25
+  },
+  {
+    "nameEn": "The Constellations",
+    "nameTr": "al-Buruj",
+    "nameAr": "البروج",
+    "noVerses": 22
+  },
+  {
+    "nameEn": "The Pulsar",
+    "nameTr": "at-Tariq",
+    "nameAr": "الـطارق",
+    "noVerses": 17
+  },
+  {
+    "nameEn": "The Most High",
+    "nameTr": "al-A'la",
+    "nameAr": "الأعـلى",
+    "noVerses": 19
+  },
+  {
+    "nameEn": "The Overwhelming",
+    "nameTr": "al-Ghashiyah",
+    "nameAr": "الغاشـيـة",
+    "noVerses": 26
+  },
+  {
+    "nameEn": "The Dawn",
+    "nameTr": "al-Fajr",
+    "nameAr": "الفجر",
+    "noVerses": 30
+  },
+  {
+    "nameEn": "The Land",
+    "nameTr": "al-Balad",
+    "nameAr": "الـبلد",
+    "noVerses": 20
+  },
+  {
+    "nameEn": "The Sun",
+    "nameTr": "ash-Shams",
+    "nameAr": "الـشـمـس",
+    "noVerses": 15
+  },
+  {
+    "nameEn": "The Night",
+    "nameTr": "al-Layl",
+    "nameAr": "اللـيـل",
+    "noVerses": 21
+  },
+  {
+    "nameEn": "Morning Brighness",
+    "nameTr": "adh-Duha",
+    "nameAr": "الضـحى",
+    "noVerses": 11
+  },
+  {
+    "nameEn": "The Soothing",
+    "nameTr": "ash-Sharh",
+    "nameAr": "الـشرح",
+    "noVerses": 8
+  },
+  {
+    "nameEn": "The Fig",
+    "nameTr": "at-Tin",
+    "nameAr": "الـتين",
+    "noVerses": 8
+  },
+  {
+    "nameEn": "Clot",
+    "nameTr": "al-'Alaq",
+    "nameAr": "الـعلق",
+    "noVerses": 19
+  },
+  {
+    "nameEn": "Destiny",
+    "nameTr": "al-Qadr",
+    "nameAr": "الـقدر",
+    "noVerses": 5
+  },
+  {
+    "nameEn": "Clear Evidence",
+    "nameTr": "al-Bayyinah",
+    "nameAr": "الـبينة",
+    "noVerses": 8
+  },
+  {
+    "nameEn": "The Quake",
+    "nameTr": "az-Zalzalah",
+    "nameAr": "الـزلزلة",
+    "noVerses": 8
+  },
+  {
+    "nameEn": "The Racers",
+    "nameTr": "al-'Adiyat",
+    "nameAr": "الـعاديات",
+    "noVerses": 11
+  },
+  {
+    "nameEn": "The Shocker",
+    "nameTr": "al-Qari'ah",
+    "nameAr": "الـقارعـة",
+    "noVerses": 11
+  },
+  {
+    "nameEn": "Abundance",
+    "nameTr": "at-Takathur",
+    "nameAr": "الـتكاثر",
+    "noVerses": 8
+  },
+  { "nameEn": "Time", "nameTr": "al-'Asr", "nameAr": "الـعصر", "noVerses": 3 },
+  {
+    "nameEn": "The Backbiter",
+    "nameTr": "al-Humazah",
+    "nameAr": "الـهمزة",
+    "noVerses": 9
+  },
+  {
+    "nameEn": "The Elephant",
+    "nameTr": "al-Fil",
+    "nameAr": "الـفيل",
+    "noVerses": 5
+  },
+  { "nameEn": "Quraish", "nameTr": "Quraysh", "nameAr": "قريش", "noVerses": 4 },
+  {
+    "nameEn": "Assistance",
+    "nameTr": "al-Ma'un",
+    "nameAr": "المـاعون",
+    "noVerses": 7
+  },
+  {
+    "nameEn": "Plenty",
+    "nameTr": "al-Kawthar",
+    "nameAr": "الـكوثر",
+    "noVerses": 3
+  },
+  {
+    "nameEn": "The Disbelievers",
+    "nameTr": "al-Kafirun",
+    "nameAr": "الـكافرون",
+    "noVerses": 6
+  },
+  {
+    "nameEn": "Victory",
+    "nameTr": "an-Nasr",
+    "nameAr": "الـنصر",
+    "noVerses": 3
+  },
+  {
+    "nameEn": "Thorns",
+    "nameTr": "al-Masad ",
+    "nameAr": "الـمسد",
+    "noVerses": 5
+  },
+  {
+    "nameEn": "Sincerity",
+    "nameTr": "al-Ikhlas",
+    "nameAr": "الإخلاص",
+    "noVerses": 4
+  },
+  {
+    "nameEn": "Daybreak",
+    "nameTr": "al-Falaq",
+    "nameAr": "الـفلق",
+    "noVerses": 5
+  },
+  {
+    "nameEn": "Humankind",
+    "nameTr": "an-Nas",
+    "nameAr": "الـناس",
+    "noVerses": 6
+  }
+]
